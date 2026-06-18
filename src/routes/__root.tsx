@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "ContentFlow" },
+      { name: "description", content: "ContentFlow AI Assistant provides ready-to-post social media content for UK small businesses." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "ContentFlow" },
+      { property: "og:description", content: "ContentFlow AI Assistant provides ready-to-post social media content for UK small businesses." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "ContentFlow" },
+      { name: "twitter:description", content: "ContentFlow AI Assistant provides ready-to-post social media content for UK small businesses." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f20de907-2eb7-4ca2-b4b1-791421b9bafd/id-preview-9daac33a--91221292-ac54-4aec-982a-004b85f5e359.lovable.app-1781810212779.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f20de907-2eb7-4ca2-b4b1-791421b9bafd/id-preview-9daac33a--91221292-ac54-4aec-982a-004b85f5e359.lovable.app-1781810212779.png" },
     ],
     links: [
       {
