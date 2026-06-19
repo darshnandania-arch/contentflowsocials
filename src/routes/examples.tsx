@@ -56,7 +56,7 @@ function ExamplesPage() {
       <PageHeader
         eyebrow="Sample work"
         title="Real examples of what you'll get"
-        description="These are the exact kinds of captions, ideas and plans included in a ContentFlow pack — for local businesses and personal-brand creators."
+        description="These are the exact kinds of captions, ideas and plans included in a PostPilot pack — for local businesses and personal-brand creators."
       />
 
       <section className="py-20">
