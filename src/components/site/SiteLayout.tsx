@@ -33,7 +33,7 @@ function Nav() {
           <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-primary text-primary-foreground shadow-elegant">
             <Sparkles className="h-4 w-4" />
           </span>
-          <span className="text-lg">ContentFlow</span>
+          <span className="text-lg">PostPilot</span>
         </Link>
         <nav className="hidden items-center gap-7 text-sm text-muted-foreground md:flex">
           {NAV.map((n) => (
