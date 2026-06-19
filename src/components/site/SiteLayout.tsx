@@ -94,7 +94,7 @@ function Footer() {
           <span className="flex h-6 w-6 items-center justify-center rounded-md bg-gradient-primary text-primary-foreground">
             <Sparkles className="h-3 w-3" />
           </span>
-          <span className="font-semibold text-foreground">ContentFlow</span>
+          <span className="font-semibold text-foreground">PostPilot</span>
           <span>© {new Date().getFullYear()}</span>
         </div>
         <div className="flex items-center gap-4">
