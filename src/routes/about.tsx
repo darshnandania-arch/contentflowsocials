@@ -7,9 +7,9 @@ import { Instagram, Sparkles, Target, Zap, Heart } from "lucide-react";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — ContentFlow" },
-      { name: "description", content: "The story, approach and obsession behind ContentFlow." },
-      { property: "og:title", content: "About — ContentFlow" },
+      { title: "About — PostPilot" },
+      { name: "description", content: "The story, approach and obsession behind PostPilot." },
+      { property: "og:title", content: "About — PostPilot" },
       { property: "og:description", content: "Built by a content nerd for creators and small businesses who'd rather create than caption." },
     ],
   }),
