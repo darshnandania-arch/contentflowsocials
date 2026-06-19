@@ -7,9 +7,9 @@ import { Instagram, Sparkles, Target, Zap, Heart } from "lucide-react";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — ContentFlow" },
-      { name: "description", content: "The story, approach and obsession behind ContentFlow." },
-      { property: "og:title", content: "About — ContentFlow" },
+      { title: "About — PostPilot" },
+      { name: "description", content: "The story, approach and obsession behind PostPilot." },
+      { property: "og:title", content: "About — PostPilot" },
       { property: "og:description", content: "Built by a content nerd for creators and small businesses who'd rather create than caption." },
     ],
   }),
@@ -29,7 +29,7 @@ function AboutPage() {
         <div className="mx-auto max-w-3xl px-6">
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
             <p>
-              I started ContentFlow after watching too many talented people — café owners, barbers, gym
+              I started PostPilot after watching too many talented people — café owners, barbers, gym
               coaches, creators with real things to say — give up on Instagram and TikTok simply
               because the <span className="text-foreground">"what do I even post?"</span> question
               wore them out.

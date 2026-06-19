@@ -33,7 +33,7 @@ function Nav() {
           <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-primary text-primary-foreground shadow-elegant">
             <Sparkles className="h-4 w-4" />
           </span>
-          <span className="text-lg">ContentFlow</span>
+          <span className="text-lg">PostPilot</span>
         </Link>
         <nav className="hidden items-center gap-7 text-sm text-muted-foreground md:flex">
           {NAV.map((n) => (
@@ -94,7 +94,7 @@ function Footer() {
           <span className="flex h-6 w-6 items-center justify-center rounded-md bg-gradient-primary text-primary-foreground">
             <Sparkles className="h-3 w-3" />
           </span>
-          <span className="font-semibold text-foreground">ContentFlow</span>
+          <span className="font-semibold text-foreground">PostPilot</span>
           <span>© {new Date().getFullYear()}</span>
         </div>
         <div className="flex items-center gap-4">

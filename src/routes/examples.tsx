@@ -7,10 +7,10 @@ import { Instagram, Video, CalendarDays, ArrowRight } from "lucide-react";
 export const Route = createFileRoute("/examples")({
   head: () => ({
     meta: [
-      { title: "Examples — ContentFlow" },
+      { title: "Examples — PostPilot" },
       { name: "description", content: "Sample captions, TikTok ideas and posting plans created for real-style clients." },
-      { property: "og:title", content: "Examples — ContentFlow" },
-      { property: "og:description", content: "See exactly what a ContentFlow pack looks like." },
+      { property: "og:title", content: "Examples — PostPilot" },
+      { property: "og:description", content: "See exactly what a PostPilot pack looks like." },
     ],
   }),
   component: ExamplesPage,
@@ -56,7 +56,7 @@ function ExamplesPage() {
       <PageHeader
         eyebrow="Sample work"
         title="Real examples of what you'll get"
-        description="These are the exact kinds of captions, ideas and plans included in a ContentFlow pack — for local businesses and personal-brand creators."
+        description="These are the exact kinds of captions, ideas and plans included in a PostPilot pack — for local businesses and personal-brand creators."
       />
 
       <section className="py-20">

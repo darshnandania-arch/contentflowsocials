@@ -7,9 +7,9 @@ import { Instagram, ArrowRight, MessageCircle, Clock } from "lucide-react";
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact — ContentFlow" },
+      { title: "Contact — PostPilot" },
       { name: "description", content: "DM @darsh_thepostpilot on Instagram or TikTok for a free sample content pack." },
-      { property: "og:title", content: "Contact ContentFlow" },
+      { property: "og:title", content: "Contact PostPilot" },
       { property: "og:description", content: "Same handle on Instagram and TikTok — slide into the DMs and let's talk." },
     ],
   }),

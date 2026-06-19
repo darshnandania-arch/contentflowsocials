@@ -14,13 +14,13 @@ import {
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "ContentFlow — Content plans, video ideas & captions for creators" },
+      { title: "PostPilot — Content plans, video ideas & captions for creators" },
       {
         name: "description",
         content:
           "Done-for-you content plans, video ideas, captions and editing for Instagram and TikTok — built for creators and small businesses.",
       },
-      { property: "og:title", content: "ContentFlow — Stay consistent on Instagram & TikTok" },
+      { property: "og:title", content: "PostPilot — Stay consistent on Instagram & TikTok" },
       {
         property: "og:description",
         content:

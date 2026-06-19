@@ -17,9 +17,9 @@ import { TikTokIcon } from "@/components/site/SiteLayout";
 export const Route = createFileRoute("/services")({
   head: () => ({
     meta: [
-      { title: "Services — ContentFlow" },
+      { title: "Services — PostPilot" },
       { name: "description", content: "Content plans, video ideas, captions and editing for Instagram and TikTok." },
-      { property: "og:title", content: "Services — ContentFlow" },
+      { property: "og:title", content: "Services — PostPilot" },
       { property: "og:description", content: "Full-service short-form content support for creators and small businesses." },
     ],
   }),

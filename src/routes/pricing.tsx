@@ -7,9 +7,9 @@ import { Check, MessageCircle, Instagram, Sparkles } from "lucide-react";
 export const Route = createFileRoute("/pricing")({
   head: () => ({
     meta: [
-      { title: "Pricing — ContentFlow" },
+      { title: "Pricing — PostPilot" },
       { name: "description", content: "Simple, honest pricing for content plans, video ideas, captions and editing." },
-      { property: "og:title", content: "Pricing — ContentFlow" },
+      { property: "og:title", content: "Pricing — PostPilot" },
       { property: "og:description", content: "Starter, Growth and Monthly plans — plus custom packages on request." },
     ],
   }),
