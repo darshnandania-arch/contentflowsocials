@@ -29,7 +29,7 @@ function AboutPage() {
         <div className="mx-auto max-w-3xl px-6">
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
             <p>
-              I started ContentFlow after watching too many talented people — café owners, barbers, gym
+              I started PostPilot after watching too many talented people — café owners, barbers, gym
               coaches, creators with real things to say — give up on Instagram and TikTok simply
               because the <span className="text-foreground">"what do I even post?"</span> question
               wore them out.
